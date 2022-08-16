@@ -4,7 +4,7 @@ import { defineNuxtConfig } from 'nuxt'
 export default defineNuxtConfig({
     head: {
         link: [
-            { rel: "icon", type: "image/x-icon", href: "/favicon-32x32.png" },
+            { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
             {
                 rel: "stylesheet",
                 href: "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500&display=swap",
